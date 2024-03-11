@@ -3,7 +3,7 @@
     <form id="form" @submit.prevent="onSubmit">
       <div class="form-control">
         <label for="text">Transaction Title</label>
-        <input type="text" id="text" placeholder="Enter transaction title..." v-model="text" />
+        <input type="text" id="text" placeholder="Enter Transaction Title..." v-model="text" />
       </div>
       <div class="form-control">
         <label for="amount"
