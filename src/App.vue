@@ -9,6 +9,11 @@
       />
       <AddTransaction @transactionSubmitted="handleTransactionSubmitted" />
     </div>
+    <div >
+        <h4 class="footer">
+            © 2024 Nimit Jain 
+        </h4>
+    </div>
   </template>
   
   <script setup>
