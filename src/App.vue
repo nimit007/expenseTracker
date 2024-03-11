@@ -10,9 +10,9 @@
       <AddTransaction @transactionSubmitted="handleTransactionSubmitted" />
     </div>
     <div >
-        <h4 class="footer">
+        <h5 class="footer">
             © 2024 Nimit Jain 
-        </h4>
+        </h5>
     </div>
   </template>
   
