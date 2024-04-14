@@ -32,7 +32,8 @@
   const toast = useToast();
   
   const emit = defineEmits(['transactionSubmitted']);
-  
+  // change 3
+  // change 2
   const onSubmit = () => {
     if (!text.value || !amount.value) {
       // Display a toast error message if either field is empty
