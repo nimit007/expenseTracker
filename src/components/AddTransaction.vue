@@ -33,7 +33,7 @@
   
   const emit = defineEmits(['transactionSubmitted']);
   // change 4
-  // change 2
+  // change 5
   const onSubmit = () => {
     if (!text.value || !amount.value) {
       // Display a toast error message if either field is empty
