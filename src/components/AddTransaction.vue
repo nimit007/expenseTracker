@@ -32,7 +32,7 @@
   const toast = useToast();
   
   const emit = defineEmits(['transactionSubmitted']);
-  // change 3
+  // change 4
   // change 2
   const onSubmit = () => {
     if (!text.value || !amount.value) {
